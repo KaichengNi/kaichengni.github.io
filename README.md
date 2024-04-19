@@ -1,14 +1,23 @@
 # Kaicheng Ni
 
-#### Technical Skills: Python, C++, PyTorch, YOLO, OpenCV,ROS, Git, Docker
+#### Technical Skills
+- Python, C++
+- PyTorch
+- YOLO, OpenCV
+- ROS, Git, Docker
+ 
+#### Languages
+- English (C1)
+- German (B1)
+- Chinese (Nativ)
 
 ## Education							       		
-- M.S., Technical University of Munich (_Oct. 2021 - present_)
+- **M.S., Technical University of Munich** (_Oct. 2021 - present_)
     - Electrical Engineering and information technology
     - Grade: 1.7	 			        		 
-- M.S., Chengdu University of Technology (_Sept. 2016 - Jul. 2020_)
-    - Electronic and Information Engineering (Graduated with honors)
-    - Grade: 1.8 
+- **M.S., Chengdu University of Technology** (_Sept. 2016 - Jul. 2020_)
+    - Electronic and Information Engineering 
+    - Grade: 1.8 (Graduated with honors)
 
 ## Work Experience
 **Research Intern @ fortiss (_Mar. 2023 - Jun. 2023_)**
