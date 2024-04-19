@@ -3,8 +3,12 @@
 #### Technical Skills: Python, C++, PyTorch, YOLO, OpenCV,ROS, Git, Docker
 
 ## Education							       		
-- M.S., Electrical Engineering and information technology	| Technical University of Munich (_Oct. 2021 - present_)	 			        		
-- B.S., Electronic and Information Engineering  | Chengdu University of Technology (_Sept. 2016 - Jul. 2020_)
+- M.S., Technical University of Munich (_Oct. 2021 - present_)
+    - Electrical Engineering and information technology
+    - Grade: 1.7	 			        		 
+- M.S., Chengdu University of Technology (_Sept. 2016 - Jul. 2020_)
+    - Electronic and Information Engineering (Graduated with honors)
+    - Grade: 1.8 
 
 ## Work Experience
 **Research Intern @ fortiss (_Mar. 2023 - Jun. 2023_)**
