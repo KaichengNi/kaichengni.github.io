@@ -14,25 +14,21 @@
 
 
 ## Projects
-### Classify Leaves - Kaggle Competition (_Feb. 2024 - Mar. 2024_)
-[Kaggle NoteBook](https://www.kaggle.com/code/kaichengni/leaves-classification)
+### Classify Leaves - Kaggle Competition (_Feb. 2024 - Mar. 2024_) [Kaggle NoteBook](https://www.kaggle.com/code/kaichengni/leaves-classification)
 
 - Completed a project (Kaggle) on classifying 176 categories of 26000 leaf images using a pre-trained deep learning model in PyTorch, achieving an mAP of 98.13% (Top 20 in the leaderboard).
 - Enhanced model mAP by around 1% through data augmentation techniques(MixUp and CutMix).
 
 
-### Modeling and Control of Legged Robots (_Jun. 2023 - Sept. 2023_)
-[GitHub](https://github.com/kcniii/leggedRobot) and [Video](https://www.youtube.com/watch?v=Dbm4_3v5M8o&list=PLTr-Gm-CrZQjIVvHujCXf0h5PL2NB1dwW)
+### Modeling and Control of Legged Robots (_Jun. 2023 - Sept. 2023_) [GitHub](https://github.com/kcniii/leggedRobot) and [Video](https://www.youtube.com/watch?v=Dbm4_3v5M8o&list=PLTr-Gm-CrZQjIVvHujCXf0h5PL2NB1dwW)
 
 Project at Institute for Cognitive Systems (ICS), Technical University of Munich (TUM)
 - Enabled Legged Robot(Talos) standing on one leg, squats, and walking in the PyBullet simulator.
 - Implemented real-time 3D body pose estimation (using ROS4HRI based on Google MediaPipe) and the teleoperation between human and robot.
 
-### Car Damages classification (_Jun. 2023 - Sept. 2023_)
-[GitHub](https://github.com/kcniii/leggedRobot) and [Video](https://www.youtube.com/watch?v=Dbm4_3v5M8o&list=PLTr-Gm-CrZQjIVvHujCXf0h5PL2NB1dwW)
+### Car Damages classification (_Jun. 2023 - Sept. 2023_) [Video](https://www.youtube.com/watch?v=Dbm4_3v5M8o&list=PLTr-Gm-CrZQjIVvHujCXf0h5PL2NB1dwW)
 
 Project at Chair for Data Processing (LDV), Technical University of Munich (TUM)
-[Video](https://www.youtube.com/watch?v=Dbm4_3v5M8o&list=PLTr-Gm-CrZQjIVvHujCXf0h5PL2NB1dwW)
 - Conducted 4-class car damage classification using transfer learning (ResNet-18) in Pytorch.
 - Deployed and compared four continual learning strategies(Cumulative, Replay, LWF, and Naive training strategies).
 - Managed the project's transition to Docker.
