@@ -39,6 +39,9 @@ Project at Institute for Cognitive Systems (ICS), Technical University of Munich
 - Enabled Legged Robot(Talos) standing on one leg, squats, and walking in the PyBullet simulator.
 - Implemented real-time 3D body pose estimation (using ROS4HRI based on Google MediaPipe) and the teleoperation between human and robot.
 
+![robot squat](/assets/gif/squat.gif)
+![robot walking](/assets/gif/walking.gif)
+
 ### Car Damages classification (_Jun. 2023 - Sept. 2023_) 
 
 Project at Chair for Data Processing (LDV), Technical University of Munich (TUM) [Video](https://www.youtube.com/watch?v=Dbm4_3v5M8o&list=PLTr-Gm-CrZQjIVvHujCXf0h5PL2NB1dwW)
